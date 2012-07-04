@@ -1,0 +1,3494 @@
+[
+    {
+        "name": "all purpose flour", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar light packed", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chocolate bark", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chocolate chips", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "semi sweet chocolate chips miniature", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla extract", 
+        "unit": "(14 ounce) can"
+    }, 
+    {
+        "name": "cilantro", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cumin ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "jalapeno whole thin", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion", 
+        "unit": "can"
+    }, 
+    {
+        "name": "tomatoes whole with juice", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "baking soda", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "bittersweet chocolate", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "cocoa powder unsweetened", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "confections sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "butter unsalted", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "butter unsalted", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "heavy cream", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sour cream", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "eggs large", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "irish whiskey", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bananas", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "peanut butter creamy", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "peanuts", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cocoa powder", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "flour", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "Dash"
+    }, 
+    {
+        "name": "vanilla", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "water", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "butter unsalted", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "milk", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "yellow onion large", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "tomato paste", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cider vinegar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ketchup", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "worcestershire sauce", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "ancho or new mexican chili powder", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar packed dark", 
+        "unit": "12-ounce can"
+    }, 
+    {
+        "name": "dr pepper", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "kosher salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "white pepper fine ground", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "black beans", 
+        "unit": "(14- to 15-ounce) can"
+    }, 
+    {
+        "name": "cilantro fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "lime zest", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "scallions", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "tomatoes medium", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "vegetable oil", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "quinoa", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "hazelnuts", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "caramel sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "nutella", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "all purpose flour", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "baking powder", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cocoa powder", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "vanilla extract pure", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "lemon", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "raspberries fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "baking powder", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "vanilla extract pure", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "buttermilk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "almonds", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "garlic cloves medium", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "big pinche"
+    }, 
+    {
+        "name": "quinoa cooked", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "lemon juice fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cilantro", 
+        "unit": "whole 4 Oz Can"
+    }, 
+    {
+        "name": "green chilies whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "jalapeno whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion whole large", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "chicken cooked", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "reserved broth from chicken", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "picante sauce", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "canola oil", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "paprika", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "fruit by the foot", 
+        "unit": "box"
+    }, 
+    {
+        "name": "peeps per roll", 
+        "unit": "box"
+    }, 
+    {
+        "name": "pecans", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cocoa heaping", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "milk", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "jalapenos whole fresh", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "bacon thin regular", 
+        "unit": "cube"
+    }, 
+    {
+        "name": "coriander", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "green chilies", 
+        "unit": "can"
+    }, 
+    {
+        "name": "green onions", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion whole medium", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "ground beef", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chicken broth", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black olives", 
+        "unit": "can"
+    }, 
+    {
+        "name": "enchilada or red sauce", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "black pepper ground", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "canola oil", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "bell peppers whole", 
+        "unit": "ear"
+    }, 
+    {
+        "name": "corn", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "green onions", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "onion whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bacon", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chicken stock or broth", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "bread bowls", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "12 stick butter", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "active dry yeast", 
+        "unit": "package"
+    }, 
+    {
+        "name": "baking powder heaping", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "baking soda scant", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cinnamon", 
+        "unit": "Generous Sprinkling"
+    }, 
+    {
+        "name": "maple flavoring", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "powdered sugar", 
+        "unit": "bag"
+    }, 
+    {
+        "name": "salt heaping", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "vegetable oil", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "coffee", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "Plenty"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "milk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "whole milk", 
+        "unit": "quart"
+    }, 
+    {
+        "name": "green bell pepper whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "parsley fresh", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "red bell pepper whole", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "red onion whole large", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "roma tomatoes whole", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "chicken breasts whole boneless skinless", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chicken broth low sodium", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "blackberries fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "pecans toasted", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "agave nectar organic", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cinnamon ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "quinoa organic", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "organic 1 low fat milk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "flat leaf parsley", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bacon thin regular", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "ground beef", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "mustard dry", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "tabasco", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black pepper freshly ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "brown sugar", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "seasoned salt", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "white bread", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chili peppers", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "cilantro fresh", 
+        "unit": "1 piece (approximately 2 Inches) Chunk"
+    }, 
+    {
+        "name": "coriander ground", 
+        "unit": "can"
+    }, 
+    {
+        "name": "cumin", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "ginger fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion whole large", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chocolate unsweetened", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "chocolate chips mini", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "white sugar granulated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bittersweet chocolate", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "cake flour", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "lyles golden syrup", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt plus more", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "lemon juice fresh", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "condensed milk sweetened", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion raw", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "yellow onions", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "beef or other brown stock", 
+        "unit": "quart"
+    }, 
+    {
+        "name": "all purpose flour", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "granulated sugar", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "table salt", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "1 inch thick rounds french bread thick", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "swiss or a mixture of swiss and parmesan cheese grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "basil dried leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "onion", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "parsley fresh", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "tomatoes", 
+        "unit": "(28 ounce) can"
+    }, 
+    {
+        "name": "ground beef lean", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "sweet italian sausage", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "tomato paste", 
+        "unit": "(6 ounce) can"
+    }, 
+    {
+        "name": "tomato sauce canned", 
+        "unit": "(6.5 ounce) can"
+    }, 
+    {
+        "name": "black pepper ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "fennel seeds", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "italian seasoning", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "white sugar", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "lasagna noodles", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "water", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "mozzarella cheese", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "parmesan cheese grated", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "green bell pepper whole large", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "tomato paste", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "ketchup", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "tabasco sauce", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "worcestershire sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black pepper freshly ground", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "peanut butter smooth", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "12 ounces dark chocolate", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "confectioners powdered sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "graham cracker crumbs", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "coffee ground", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chives", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "flat leaf parsley", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "scallions", 
+        "unit": "strip"
+    }, 
+    {
+        "name": "shallot", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "active yeast dry", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black pepper freshly ground", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "instant yeast", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "(.44 ounce) teaspoon"
+    }, 
+    {
+        "name": "semolina flour or cornmeal", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "high gluten bread unbleached", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "basil fresh", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "onion whole small", 
+        "unit": "can"
+    }, 
+    {
+        "name": "parsley fresh", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "shrimp", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "tomato sauce", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "jam", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cornstarch mixed with", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "milk", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "chocolate chips", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "cocoa", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "granulated sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "kosher salt", 
+        "unit": "pinch"
+    }, 
+    {
+        "name": "oil", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "eggs", 
+        "unit": "quart"
+    }, 
+    {
+        "name": "brown sugar packed", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chocolate chips semisweet", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla extract", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "white sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black beans", 
+        "unit": "15 oz can"
+    }, 
+    {
+        "name": "corn frozen", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "cumin", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "garlic powder", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "onion powder", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "scallions", 
+        "unit": "14.4 oz can"
+    }, 
+    {
+        "name": "tomatoes with mild green chilies", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "chicken breast", 
+        "unit": "14.4 oz can"
+    }, 
+    {
+        "name": "chicken broth fat free", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "mustard heaping dry", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "seasoned salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "macaroni dried", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cheese grated", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "whole milk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cocoa unsweetened dutch process", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "confectioners sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla extract", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "vegetable shortening", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "san marzano tomatoes whole from a can", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "yellow onion medium sized", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "potatoes whole new", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "avocados ripe", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "cilantro leaves", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "dash"
+    }, 
+    {
+        "name": "jalapeno small", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "onion small", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "roma tomato", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "black pepper", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "garbanzo beans", 
+        "unit": "15-ounce can"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "mushrooms such as cremini or white", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "capers", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "garlic cloves large", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "vegetable oil", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "lemon juice fresh", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "garlic powder", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "bacon fried and crumbled", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "dijon mustard heaping", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "mayonnaise real", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "worcestershire sauce", 
+        "unit": "dashe"
+    }, 
+    {
+        "name": "cheddar cheese grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "basil leaves", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "onion whole medium", 
+        "unit": "whole 28 Ounce Can"
+    }, 
+    {
+        "name": "parsley", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "tomato", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "italian sausage", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "pasta shells jumbo", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "parmesan cheese grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onions whole medium thin", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "bacon regular", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "all purpose flour", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "bacon grease", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "macaroni", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "chevre", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "fontina cheese grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "gruyere cheese grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "half and half", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bay leaves", 
+        "unit": "head"
+    }, 
+    {
+        "name": "chives or scallions fresh", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "leeks medium", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "russet potatoes", 
+        "unit": "drizzle"
+    }, 
+    {
+        "name": "bacon bits", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "2 large skinless boneless chicken breasts large skinless boneless", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "olive oil spray", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "italian seasoned breadcrumbs whole wheat", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "pumpkin or squash canned", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "all purpose flour unbleached", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar light or dark", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "king arthur whole wheat flour white", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "maple syrup pure", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "pumpkin spice", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "star quick rise yeast or instant yeast red", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "water", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "butter soft", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "nonfat dry milk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar firmly packed dark", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cocoa powder dark unsweetened", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "powdered sugar", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "root beer", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "heavy or whipping cream", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "eggs large", 
+        "unit": "Pint"
+    }, 
+    {
+        "name": "brown sugar firmly packed light", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "dutch cocoa powder", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "egg yolks large", 
+        "unit": "14.9-ounce can"
+    }, 
+    {
+        "name": "cocoa powder", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "dark chocolate", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "(8 ounce) package"
+    }, 
+    {
+        "name": "heavy cream", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "eggs", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bacon thick sliced", 
+        "unit": "piece"
+    }, 
+    {
+        "name": "nutella", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "black pepper", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "brown sugar light", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "chili powder", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "basil dried", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "parsley dried", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "tomatoes whole", 
+        "unit": "can"
+    }, 
+    {
+        "name": "breakfast sausage hot", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "tomato paste", 
+        "unit": "can"
+    }, 
+    {
+        "name": "lasagna noodles", 
+        "unit": "package"
+    }, 
+    {
+        "name": "cottage cheese lowfat", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "mozzarella cheese", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "onion whole medium", 
+        "unit": "cube"
+    }, 
+    {
+        "name": "parsley fresh", 
+        "unit": "can"
+    }, 
+    {
+        "name": "tomatoes", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "linguine thin", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cayenne", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "nutmeg", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "elbow macaroni pasta", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bread crumbs", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black beans soft cooked", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "walnuts", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "agave nectar light", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sea salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "coffee substitute granulated natural", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "dark chocolate", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "food color yellow", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "powdered sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla bean", 
+        "unit": "drop"
+    }, 
+    {
+        "name": "water orange blossom", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "fresno chiles red", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "distilled white vinegar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "garlic cloves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "kosher salt", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "parsley fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "scallions", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "marinara or pizza sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "active dry yeast", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ap flour", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "bread flour", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "iceberg lettuce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "tomatoes large", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "black olives", 
+        "unit": "16 oz jar"
+    }, 
+    {
+        "name": "salsa mild", 
+        "unit": "packet"
+    }, 
+    {
+        "name": "taco seasoning", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "13 less fat philadelphia cream cheese less fat", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cheddar cheese reduced fat", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "yukon gold potatoes", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "garlic salt", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "paprika", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "pepper", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "parmesan cheese", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "onion whole large", 
+        "unit": "can"
+    }, 
+    {
+        "name": "pork shoulder quotpork buttquot   5 to 7 pounds whole", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "chipotle peppers in adobo sauce", 
+        "unit": "can"
+    }, 
+    {
+        "name": "ginger ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "golden raisins", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "pumpkin puree heaping", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cinnamon", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "nutmeg", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "powdered sugar", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "topping", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "vanilla", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "evaporated milk", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "bananas overripe", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "nutmeg ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "bread", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "butter salted", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "lemon wedges", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onions", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "thyme fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chicken stock or canned low salt chicken broth", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "garlic clove", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "margarine", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bread flour", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bread machine yeast", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cinnamon ground", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "confectioners39 sugar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "(3 ounce) package"
+    }, 
+    {
+        "name": "very large yellow onion whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ribeye steaks whole", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "granny smith apples whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "can"
+    }, 
+    {
+        "name": "vanilla", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "asparagus spears slender", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "lemon peel", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "tarragon plus more fresh", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "spiral shaped pasta", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "raisins", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "rolled oats", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bay leaf", 
+        "unit": "medium clove"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "oregano fresh leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "rosemary fresh leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "thyme fresh leaves", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "olive oil extra virgin", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "paprika sweet", 
+        "unit": "pinch"
+    }, 
+    {
+        "name": "red pepper flakes", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "sea salt fine grain", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "chuck ground", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "15 ounces tomato sauce", 
+        "unit": "can"
+    }, 
+    {
+        "name": "egg noodles", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cheddar cheese grated sharp", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "curd cottage cheese small", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion powder", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "table salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "whole wheat flour", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "1 12 cups coarsely grated sharp cheddar sharp", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "lemon zest", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "orange zest", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "sweet or sour cherries", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "cornstarch", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "lemon juice", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "instant coffee crystal", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "heavy cream", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "cayenne pepper", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt coarse", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "elbow macaroni", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "white bread", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "cheddar cheese grated sharp white", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "gruyere or", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "green pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "pimentos", 
+        "unit": "jar"
+    }, 
+    {
+        "name": "chicken cooked", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cream of mushroom soup", 
+        "unit": "can"
+    }, 
+    {
+        "name": "reserved chicken broth from pot", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "lawry39s seasoned salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "spaghetti dry", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "a 15 ounce can 415 grams pumpkin puree unsweetened", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cloves ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "black beans", 
+        "unit": "(16 ounce) can"
+    }, 
+    {
+        "name": "cumin", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "green bell pepper", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "onion wedges", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "thai chili sauce or hot sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bananas ripe", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "baking soda", 
+        "unit": "Pinch"
+    }, 
+    {
+        "name": "brown sugar packed light", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chocolate chips", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla pure", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "active dry yeast", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cinnamon", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "coriander ground", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "cumin seeds toasted and ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "ginger fresh", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "green chili pepper fresh hot", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onions medium", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "tomatoes", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cayenne pepper ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "garam masala", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "paprika", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "strawberries fresh", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "rosewater", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "whipping cream", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "granny smith apple whole", 
+        "unit": "package"
+    }, 
+    {
+        "name": "baking soda scant", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "canola oil", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "cinnamon ground", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "corn syrup dark brown", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "flour", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "apply brandy or apple juice", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "butter salted", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "cream", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bananas", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "baking soda", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar packed", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cinnamon ground", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "garlic fresh", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "rosemary fresh", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "chicken roasted", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "vegetable oil", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "rigatoni dried", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "goat cheese", 
+        "unit": "quart"
+    }, 
+    {
+        "name": "black beans", 
+        "unit": "16-oz can"
+    }, 
+    {
+        "name": "chili peppers", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cilantro fresh", 
+        "unit": "10 oz package"
+    }, 
+    {
+        "name": "corn frozen kernels", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "cumin", 
+        "unit": "16-oz can"
+    }, 
+    {
+        "name": "kidney beans", 
+        "unit": "14.5-oz can"
+    }, 
+    {
+        "name": "onion", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "tomatoes wchilies", 
+        "unit": "8-oz can"
+    }, 
+    {
+        "name": "3 4 boneless skinless chicken breasts boneless skinless", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "tomato sauce", 
+        "unit": "packet"
+    }, 
+    {
+        "name": "all purpose flour", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "brown sugar packed light", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "brownie mix", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "granulated sugar", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "kosher salt", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "semi sweet chocolate chips", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "onion", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "potatoes", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vegetables   chopped carrots", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "round beef ground", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "beef broth", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "worcestershire sauce", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "rapid rise instant or bread machine yeast", 
+        "unit": "package"
+    }, 
+    {
+        "name": "8 tablespoons unsalted butter unsalted", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "onion whole large", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "cube steak", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "tabasco sauce", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "chocolate chips", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "oil", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "vanilla extract", 
+        "unit": "drop"
+    }, 
+    {
+        "name": "coffee mug", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "russet or yukon gold potatoes", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "package"
+    }, 
+    {
+        "name": "avocado", 
+        "unit": "can"
+    }, 
+    {
+        "name": "black beans", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cilantro", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "cumin", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "garlic powder", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "green bell pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "red bell pepper", 
+        "unit": "ounces, fluid"
+    }, 
+    {
+        "name": "red onion", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "rotel tomatoes and green chilies", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "chicken breasts whole boneless skinless", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "chicken stock low sodium", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "salsa or pico de gallo", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "butternut squash", 
+        "unit": "lb."
+    }, 
+    {
+        "name": "flat leaf parsley fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "tomatoes petite", 
+        "unit": "can"
+    }, 
+    {
+        "name": "yellow onion medium", 
+        "unit": "lb."
+    }, 
+    {
+        "name": "chicken thighs boneless skinless", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "kalamata olives pitted and quartered", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "black pepper freshly ground", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "bean sprouts", 
+        "unit": "big handful"
+    }, 
+    {
+        "name": "chili peppers", 
+        "unit": "nub"
+    }, 
+    {
+        "name": "ginger", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "limes wedges", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "onions", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "beef bones good", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "beef from the broth cooked", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "beef meat   chuck", 
+        "unit": "package"
+    }, 
+    {
+        "name": "flank", 
+        "unit": "1 inch chunk"
+    }, 
+    {
+        "name": "broth", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "fish sauce", 
+        "unit": "quart"
+    }, 
+    {
+        "name": "kale", 
+        "unit": "bunch"
+    }, 
+    {
+        "name": "ginger fresh", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "scallions whole", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "snow peas fresh", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "flank steak", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "soy sauce low sodium", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "brown sugar", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "cornstarch", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "peanut or olive oil", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "green pepper", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "pepperoni", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "black olives", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "mayonnaise", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "pizza sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "mozzarella grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "parmigiano reggiano", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "potatoes starchy", 
+        "unit": "Scant pound"
+    }, 
+    {
+        "name": "all purpose flour unbleached", 
+        "unit": "scant cup"
+    }, 
+    {
+        "name": "sea salt fine grain", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "orange red", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "lemony swiss meringue buttercream", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "vanilla extract pure", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "velvet cake mix red", 
+        "unit": "box"
+    }, 
+    {
+        "name": "white chocolate chips", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "apples", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "walnuts", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "baking powder", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "cinnamon", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "italian parsley fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "or 1 recipe sour cream mashed potatoes", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sage fresh leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "sweet potatoes", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "thyme fresh leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "yellow onion", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ground turkey breast", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "sausage stuffing", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cranberry sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "gravy", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ketchup", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "soy sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black pepper freshly ground", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "brown sugar packed light", 
+        "unit": "Pinch"
+    }, 
+    {
+        "name": "mace or nutmeg ground", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "quick cooking oats", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "table salt fine", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "basil", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "yellow or red onion", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "of frank39s hot sauce", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "hazelnuts toasted", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "nutella", 
+        "unit": "(8 ounce) tub"
+    }, 
+    {
+        "name": "chocolate shavings", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "topping frozen whipped", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "topping whipped", 
+        "unit": "(8 ounce) package"
+    }, 
+    {
+        "name": "lemon whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar light firmly packed", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "corn syrup light", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "flour", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "maple syrup real", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "peaches", 
+        "unit": "2 3/4 cups plus 2 tablespoons cup"
+    }, 
+    {
+        "name": "iceberg lettuce leaves fresh", 
+        "unit": "thick quarter-inch-thick slice"
+    }, 
+    {
+        "name": "onion finely chopped about 1 12 cups large", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "tomato ripe", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "beef chuck with fresh", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "deli cut american cheese", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "dill pickles chips", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "ketchup", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "mayonnaise", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "mustard yellow", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "pumpkin", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "maple syrup", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "pumpkin puree", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cinnamon", 
+        "unit": "Pinch"
+    }, 
+    {
+        "name": "cloves ground", 
+        "unit": "Pinch"
+    }, 
+    {
+        "name": "nutmeg", 
+        "unit": "Pinch"
+    }, 
+    {
+        "name": "graham cracker crumbs", 
+        "unit": "package"
+    }, 
+    {
+        "name": "graham crackers", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "heavy cream", 
+        "unit": "box"
+    }, 
+    {
+        "name": "vanilla pudding", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "caramels whole", 
+        "unit": "box"
+    }, 
+    {
+        "name": "german chocolate cake mix", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "semi sweet chocolate chips", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "evaporated milk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "basil leaves", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "large or 2 small zucchinis", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "garlic clove minced about 1 teaspoon medium", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "ice water", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "mozzarella", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "strawberries organic or unsprayed", 
+        "unit": "pint"
+    }, 
+    {
+        "name": "vodka", 
+        "unit": "bottle"
+    }, 
+    {
+        "name": "berries fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "lemon zest of", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla extract pure", 
+        "unit": "package"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "coconut sweetened flaked", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "raspberries fresh", 
+        "unit": "pint"
+    }, 
+    {
+        "name": "almond extract", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "sea salt or flaked", 
+        "unit": "Heaped teaspoon"
+    }, 
+    {
+        "name": "carrots", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "celery", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion whole medium", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "thyme ground", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chicken whole", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "baking powder heaping", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cornmeal yellow", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "turmeric", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "green tea", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "active dry yeast", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "cocoa powder mixed w", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "gold medal all purpose flour unbleached", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "sugar", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "butter unsalted", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "milk w 1 egg yolk", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "basil whole leaves", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "lemons whole", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "grilled chicken breasts whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt and freshly ground black pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "penne pasta", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "betty crocker golden vanilla super moist cake mix", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "brown sugar packed", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "cinnamon", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "pumpkin spice", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "vanilla extract", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "buttermilk biscuits", 
+        "unit": "can"
+    }, 
+    {
+        "name": "nutella", 
+        "unit": "13-ounce jar"
+    }, 
+    {
+        "name": "clear vanilla extract", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "confectioners sugar", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "sea salt fine grain", 
+        "unit": "pinch"
+    }, 
+    {
+        "name": "cupcakes", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "basil fresh leaves", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "pine nuts", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "tomatoes whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "olive oil extra virgin", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "pasta", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bacon", 
+        "unit": "strip"
+    }, 
+    {
+        "name": "4 cup packed brown sugar 140g packed", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "brown sugar light", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "butter salted", 
+        "unit": "(675ml) cup"
+    }, 
+    {
+        "name": "half and half", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "waxy potatoes", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "white wine vinegar", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "fennel salt", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "pepper freshly ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "nutmeg", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vanilla extract", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "of a mixture of whole milk and half and half", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vinegar", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "food coloring red", 
+        "unit": "ounce, fluid"
+    }, 
+    {
+        "name": "shortening", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cube steak", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "black pepper lots", 
+        "unit": "LOTS Of"
+    }, 
+    {
+        "name": "peanut butter creamy", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "9 inch pie crusts refrigerated", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "2 cups  9 oz  255g cubed pumpkin or butternut squash", 
+        "unit": "2-inch cube"
+    }, 
+    {
+        "name": "baby spinach", 
+        "unit": "large handful"
+    }, 
+    {
+        "name": "parsley or cilantro", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "sunflower seeds kernels", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "mustard whole grain", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "baking powder aluminum free", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt and pepper", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "butter unsalted", 
+        "unit": "g"
+    }, 
+    {
+        "name": "feta", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "peanut butter creamy", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "flour", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "frosting", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "powdered sugar", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "vanilla", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "butter", 
+        "unit": "oz"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "milk", 
+        "unit": "Cup"
+    }, 
+    {
+        "name": "carrot medium", 
+        "unit": "small handful"
+    }, 
+    {
+        "name": "cilantro", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "red split lentils", 
+        "unit": "14-ounce can"
+    }, 
+    {
+        "name": "split peas yellow", 
+        "unit": "80 ml cup"
+    }, 
+    {
+        "name": "coconut milk", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "curry powder", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "roma tomatoes whole", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "romaine lettuce", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "all purpose flour", 
+        "unit": "quart"
+    }, 
+    {
+        "name": "cayenne pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cauliflower", 
+        "unit": "large head"
+    }, 
+    {
+        "name": "cumin seeds whole", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "mint fresh leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "pomegranate seeds", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "kosher salt", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "bacon thin", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "club crackers", 
+        "unit": "package"
+    }, 
+    {
+        "name": "black beans", 
+        "unit": "(15 ounce) can"
+    }, 
+    {
+        "name": "corn frozen kernels", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "vegetable broth", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "1 14 cup packed mint packed", 
+        "unit": "leaves large handful"
+    }, 
+    {
+        "name": "cucumbers", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "lime juice from fresh limes", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "grilled pineapple", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "cocoa powder unsweetened", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "food coloring red", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "solid pack pumpkin canned", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "buttermilk mixed with", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "cream cheese", 
+        "unit": "(8-ounce) package"
+    }, 
+    {
+        "name": "carrot", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "pearl onions", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "sour cream and chopped chives or parsley", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "thyme fresh", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "yellow onion small", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "beef or vegetable broth", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "tomato paste", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "basil fresh", 
+        "unit": "T"
+    }, 
+    {
+        "name": "garlic powder", 
+        "unit": "tsp."
+    }, 
+    {
+        "name": "green onion", 
+        "unit": "T"
+    }, 
+    {
+        "name": "thyme dried", 
+        "unit": "tsp."
+    }, 
+    {
+        "name": "yellow squash medium sized", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "zucchini medium sized", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "onion", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "thyme fresh", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "yukon gold potatoes", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "zucchini", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "93 lean ground turkey lean", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "chicken broth fat free", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "garlic cloves large", 
+        "unit": "tsp"
+    }, 
+    {
+        "name": "kosher salt", 
+        "unit": "dash"
+    }, 
+    {
+        "name": "pepper fresh ground", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "breadcrumbs seasoned", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "butter light", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "bay leaves whole", 
+        "unit": "clove"
+    }, 
+    {
+        "name": "peel of three oranges large", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "rosemary fresh leaves", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "peppercorns", 
+        "unit": "gallon"
+    }, 
+    {
+        "name": "carrots", 
+        "unit": "Sprig"
+    }, 
+    {
+        "name": "green peas frozen", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "mushrooms white", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "bacon", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "turkey", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "turkey cooked", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "broth", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "black olives", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "spaghetti thin", 
+        "unit": "block"
+    }, 
+    {
+        "name": "panko bread crumbs", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "8 ounce cream cheese", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "monterey jack cheese grated", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ham cooked", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "chicken bouillon granules", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "white or black pepper ground", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "basil fresh", 
+        "unit": "package"
+    }, 
+    {
+        "name": "bell peppers", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "mushrooms", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "ham", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "italian sausage", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "red onion whole large", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "prosciutto", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "brown sugar", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "red onion", 
+        "unit": "(2.8 oz) slice"
+    }, 
+    {
+        "name": "chicken cutlets thin", 
+        "unit": "tbsp"
+    }, 
+    {
+        "name": "prosciutto thin lean", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "olive oil non stick spray", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "cumin ground", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "pumpkin puree", 
+        "unit": "16-ounce can"
+    }, 
+    {
+        "name": "shallot", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "three 15 12 ounce cans black beans", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "tomatoes canned", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "ham cooked", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "beef broth", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "sherry vinegar", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "salt", 
+        "unit": "stick"
+    }, 
+    {
+        "name": "flat leaf parsley fresh", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "garlic", 
+        "unit": "small clove"
+    }, 
+    {
+        "name": "romaine lettuce small leaves", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "anchovy fillet", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "dijon mustard smooth", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "mayo", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "salt and freshly ground black pepper", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "chives fresh", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "parsley fresh", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "tuna", 
+        "unit": "6-ounce can"
+    }, 
+    {
+        "name": "dijon mustard", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "squirts of crystal hot sauce or tabasco", 
+        "unit": "couple"
+    }, 
+    {
+        "name": "olive oil", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "white bread torn into small pieces", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "lemon juice", 
+        "unit": "Tbsp"
+    }, 
+    {
+        "name": "water", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "avocado", 
+        "unit": "Dash"
+    }, 
+    {
+        "name": "oregano ground", 
+        "unit": "lb"
+    }, 
+    {
+        "name": "red onion", 
+        "unit": "Dash"
+    }, 
+    {
+        "name": "serrano chili", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "tomatoes fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "red snapper firm fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "jalapeno whole fresh", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "red bell pepper", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "red onion", 
+        "unit": "ounce"
+    }, 
+    {
+        "name": "tuna", 
+        "unit": "Tablespoon"
+    }, 
+    {
+        "name": "dijon mustard", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "mayonnaise", 
+        "unit": "Splash"
+    }, 
+    {
+        "name": "pickle juice", 
+        "unit": "slice"
+    }, 
+    {
+        "name": "basil dried", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "tilapia fillets", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "mayonnaise", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "name": "celery salt", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "parmesan cheese", 
+        "unit": "cup"
+    }
+]
