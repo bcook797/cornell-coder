@@ -1,0 +1,288 @@
+Page ID	Page Rank	Anchor Text	URL
+1	0.188599073254	['Cornell Information Science', 'home', 'uInformation Science Home', 'uInformation   Science Home', 'uInformation Science']	http://www.infosci.cornell.edu/index.html
+2	0.00313776523213	['uFall 2005 Colloquium']	http://www.infosci.cornell.edu/about/colloquium-fall2005.html
+3	0.00306294193492	['uFall 2006 Colloquium ']	http://www.infosci.cornell.edu/about/colloquium-fall2006.html
+4	0.00309357135427	['uSpring 2006 Colloquium']	http://www.infosci.cornell.edu/about/colloquium-spring2006.html
+5	0.00282232050413	['uFeature-Driven               Graphics']	http://www.infosci.cornell.edu/about/colloquiumFA05/nov2.html
+6	0.00282232050413	['uTransformed               Social Interaction in Virtual Reality']	http://www.infosci.cornell.edu/about/colloquiumFA05/nov30.html
+7	0.00282232050413	['uEconomic                 Natural Selection']	http://www.infosci.cornell.edu/about/colloquiumFA05/oct19.html
+8	0.00282232050413	['uUsing               Visual Information to Coordinate Speech and Action in Collaborative               Physical Tasks']	http://www.infosci.cornell.edu/about/colloquiumFA05/oct5.html
+9	0.00282232050413	['uTracking               Social Networks Across Time and Space']	http://www.infosci.cornell.edu/about/colloquiumFA05/sept7.html
+10	0.00281808586534	['uIs Policy the Future of the Internet?']	http://www.infosci.cornell.edu/about/colloquiumFA06/Dec12.html
+11	0.00281808586534	['uStudying and Encouraging Pro-Social Behavior in Wikipedia']	http://www.infosci.cornell.edu/about/colloquiumFA06/Nov29.html
+12	0.00281808586534	['uThe Science of Constraints']	http://www.infosci.cornell.edu/about/colloquiumFA06/Nov8.html
+13	0.00281808586534	['uNSDL 2.0: Creating a Collaborative Digital Library']	http://www.infosci.cornell.edu/about/colloquiumFA06/Oct11.html
+14	0.00281808586534	['uData Privacy and Background Knowledge']	http://www.infosci.cornell.edu/about/colloquiumFA06/Oct25.html
+15	0.00281808586534	['uComputing Diversity: Affirmative Action and Race Neutral Policies']	http://www.infosci.cornell.edu/about/colloquiumFA06/sept13.html
+16	0.00281808586534	['u&quot;Hold that Thought! Why I care about automating              the capture of everyday activities&quot;']	http://www.infosci.cornell.edu/about/colloquiumFA06/sept27.html
+17	0.00281382701841	['uExpressive Intelligence: Artificial Intelligence, Games and New Media']	http://www.infosci.cornell.edu/about/colloquiumFA07/Aug30.html
+18	0.00281382701841	['uEnhancing Face-to-Face Interactions with Multi-User Computing']	http://www.infosci.cornell.edu/about/colloquiumFA07/Nov28.html
+19	0.00281382701841	['uEncountering Traces: Where is the Goffman of the Internet']	http://www.infosci.cornell.edu/about/colloquiumFA07/Nov7.html
+20	0.00281382701841	['uAttention in Distributed Collaboration']	http://www.infosci.cornell.edu/about/colloquiumFA07/Oct10.html
+21	0.00281382701841	['uPictures of Traces of Places, People, and Groups: Recent Work from the Microsoft Research Community Technologies Group']	http://www.infosci.cornell.edu/about/colloquiumFA07/Oct24.html
+22	0.00281382701841	['uFrom Libraries to Learning']	http://www.infosci.cornell.edu/about/colloquiumFA07/Oct3.html
+23	0.00281115211681	['u Manipulation Resistance and Information Loss for Recommender Systems']	http://www.infosci.cornell.edu/about/colloquiumFA08/Nov12.html
+24	0.00298565448351	['u Internet Addressing: The Next Great Battleground for Internet Governance', 'u ']	http://www.infosci.cornell.edu/about/colloquiumFA08/Nov19.html
+25	0.00281115211681	['u Useful Void: The Virtue of Forgetting in the Digital Age']	http://www.infosci.cornell.edu/about/colloquiumFA08/Oct1.html
+26	0.00281115211681	['u , <span style="mso-bidi-font-size: 12.0pt; mso-bidi-font-family: Times"><font class="Apple-style-span">Technical Dimensions of Privacy</font></span>']	http://www.infosci.cornell.edu/about/colloquiumFA08/Oct15.html
+27	0.00281115211681	['u MINING THE HOME MOVIE']	http://www.infosci.cornell.edu/about/colloquiumFA08/Oct29.html
+28	0.00281115211681	['uA Human Computing Research Agenda for Chronic Disease Management']	http://www.infosci.cornell.edu/about/colloquiumFA08/Sept11.html
+29	0.00281115211681	['u PLOW: A Collaborative Task Learning Agent']	http://www.infosci.cornell.edu/about/colloquiumFA08/Sept17.html
+30	0.00281392897965	['uWhat Does the World Think? Learning From and About Humans with Social Media']	http://www.infosci.cornell.edu/about/ColloquiumFA09/Nov%2011.html
+31	0.202787456446		http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%2014.html
+32	0.202787456446		http://www.infosci.cornell.edu/about/colloquiumFA09/Oct%205.html
+33	0.202787456446		http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2010.html
+34	0.202787456446		http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%202.html
+35	0.202787456446		http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2023.html
+36	0.202787456446		http://www.infosci.cornell.edu/about/colloquiumFA09/Sept%2030.html
+37	0.00289117882127	['uUntangling Attribution: Understanding the Requirements Needed for Attribution on the Network\\t']	http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%201.html
+38	0.00289117882127	['uThe Second Information Science Research Cavalcade ']	http://www.infosci.cornell.edu/about/colloquiumFA10/Nov%2010.html
+39	0.00289117882127	['uPersonal Connections in the Digital Age ']	http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%201.html
+40	0.00289117882127	['uThe First-Ever Information Science Research Cavalcade']	http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2013.html
+41	0.00289117882127	['uSignaling online: The economics of honesty in the mediated world']	http://www.infosci.cornell.edu/about/colloquiumFA10/Oct%2027.html
+42	0.00281778260415	['uParticipatory Culture: New Media, Games and Deep Learning']	http://www.infosci.cornell.edu/about/colloquiumSP07/Apr18.html
+43	0.00281778260415	['uWe are All Public Now: Surveillance, Technology, and the Sanctity of the Classroom']	http://www.infosci.cornell.edu/about/colloquiumSP07/Apr4.html
+44	0.00281778260415	['uA Time to Plant and a Time to Reap']	http://www.infosci.cornell.edu/about/colloquiumSP07/Jan22.html
+45	0.00281778260415	['uComputerization and the Social Nature of Economic Activity: Evidence and Theorizing from the U.S. Residential Real Estate Industry']	http://www.infosci.cornell.edu/about/colloquiumSP07/Jan31.html
+46	0.00281778260415	['uThe Culture of Information']	http://www.infosci.cornell.edu/about/colloquiumSP07/Mar14.html
+47	0.00281778260415	['uFrom Disasters to WoW: Enabling Communities with Cyberinfrastructure']	http://www.infosci.cornell.edu/about/colloquiumSP07/Mar28.html
+48	0.00280804716682	['uPeople, Pens and Computers']	http://www.infosci.cornell.edu/about/colloquiumSP08/Apr16.html
+49	0.00280804716682	['uConsensus Large and Small: A Complementary Study of Wikipedia Social Practice, <br />, u']	http://www.infosci.cornell.edu/about/colloquiumSP08/Apr2.html
+50	0.00280804716682	['uAutomatically Generating Personalized Adaptive User Interfaces']	http://www.infosci.cornell.edu/about/colloquiumSP08/Feb13.html
+51	0.00280804716682	['uComputational Social Science with an HCI Accent']	http://www.infosci.cornell.edu/about/colloquiumSP08/Feb20.html
+52	0.00280804716682	['uInteraction Design Based on Human Capabilities for Contemporary and Emerging Technologies, <br />, u']	http://www.infosci.cornell.edu/about/colloquiumSP08/Feb27.html
+53	0.00280804716682	['uInterspecies Co-Production and Other Interventions']	http://www.infosci.cornell.edu/about/colloquiumSP08/Jan24.html
+54	0.00280804716682	['uOn-Line Access to Court Records: A Study of the Interaction of Technology with Law']	http://www.infosci.cornell.edu/about/colloquiumSP08/Jan30.html
+55	0.00280804716682	['uAccountabilities of Presence: Beyond Privacy in Ubiquitous Computing']	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar10.html
+56	0.00280804716682	['uDecision Support through Embedded Capture for Everyday Health and Wellness']	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar12.html
+57	0.00280804716682	['uWhy Everyone Should Be Their Own Database Administrator, UI Designer, Application Developer, and Web Site Builder, and How They Can']	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar26.html
+58	0.00280804716682	['uA &quot;Kinetic&quot; Sketch Pad for Novice Animators']	http://www.infosci.cornell.edu/about/colloquiumSP08/Mar5.html
+59	0.00280804716682	['uBuilding a "Patient on Demand": Digital Anatomy and Medical Education for the 21st Century']	http://www.infosci.cornell.edu/about/colloquiumSP08/May7.html
+60	0.00281096405588	['uUnderstanding and Enhancing Interactions with the Dynamic Web']	http://www.infosci.cornell.edu/about/colloquiumSP09/Apr15.html
+61	0.00281096405588	['uImproving the Trust User Experience']	http://www.infosci.cornell.edu/about/colloquiumSP09/Apr29.html
+62	0.00281096405588	['uValues-at-Play in Digital Games and TrackMeNot']	http://www.infosci.cornell.edu/about/colloquiumSP09/Feb25.html
+63	0.00281096405588	['uAltruism, Destructiveness, and Sharing on The Social Web']	http://www.infosci.cornell.edu/about/colloquiumSP09/Jan28.html
+64	0.00281096405588	['uEnlightened Trial and Error - Gaining Design Insight Through New Prototyping Tools']	http://www.infosci.cornell.edu/about/colloquiumSP09/Mar25.html
+65	0.00280825629387	['uTrustworthy Voting Systems Through Auditing and Innovation']	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr02.html
+66	0.00280825629387	['uComint v. Comsec: Does Wiretapping Make Us More Secure? ']	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr05.html
+67	0.00280825629387	['uDomesticity and Danger']	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr07.html
+68	0.00280825629387	['uSpoken Networks: Analyzing face-to-face conversations and how they shape our social connections']	http://www.infosci.cornell.edu/about/colloquiumSP10/Apr09.html
+69	0.00280825629387	['uComputing Tie Strength ']	http://www.infosci.cornell.edu/about/colloquiumSP10/Mar17.html
+70	0.00303261577676	['<br />, u        View        Colloquium Videos and Slides', 'uView Colloquium Videos and Slides']	http://www.infosci.cornell.edu/about/colloq_videos.html
+71	0.198637167224	['uContact', 'ucontact', 'uContacts']	http://www.infosci.cornell.edu/about/contact.html
+72	0.0139114028873	['uFacilities']	http://www.infosci.cornell.edu/about/facilities.html
+73	0.251090263905	['about us', 'uOverview', 'uDepartment Overview', 'Cornell Information Science', 'home']	http://www.infosci.cornell.edu/about/index.html
+74	0.202787456446		http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr21_08.html
+75	0.202787456446		http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2008/SIGCHI_Apr30_08.htm
+76	0.00284462788886	['uDesigning Culturally-Focused Health Technology']	http://www.infosci.cornell.edu/about/IS-SIGCHI%20SP%2009/SIGCHI_Mar09_09.htm
+77	0.00359407529783	['uIS-SIGCHI Series, <br />, u', 'uIS-SIGCHI               Series', '<br />, u', 'uIS-SIGCHI Series']	http://www.infosci.cornell.edu/about/IS-SIGCHI.html
+78	0.00283537744996	['uHow               Homes Resist']	http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/oct12.html
+79	0.00283537744996	['uDesire,               DSP, and the Unfinished Process of Performing No-Thing']	http://www.infosci.cornell.edu/about/IS-SIGCHI_FA05/sept14.html
+80	0.00283537744996	['uDesigning               and evaluating new mobile media experiences']	http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april19.html
+81	0.00283537744996	['uAre               You Game?, <br />, u              Looking to game design as inspiration for crafting engaging social               and emotional user experiences']	http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/april7.html
+82	0.00283537744996	['uWhen               I move, let&#8217;s keep in touch: Mediated communication and relationship               maintenance']	http://www.infosci.cornell.edu/about/IS-SIGCHI_SP06/march1.html
+83	0.00282509253929	['uCooperative strategies in technical standardization: The case of wireless telecommunications']	http://www.infosci.cornell.edu/about/SeminarFall04/Nov03.html
+84	0.00282509253929	['uDesigning abstract visualizations: From musical to managerial']	http://www.infosci.cornell.edu/about/SeminarFall04/Nov17.html
+85	0.00282509253929	['uMachine Learning for Non-Traditional Performance Criteria']	http://www.infosci.cornell.edu/about/SeminarFall04/Oct06.html
+86	0.00282509253929	['uReconfiguring Agency at the Human-Computer Interface ']	http://www.infosci.cornell.edu/about/SeminarFall04/Oct20.html
+87	0.00282509253929	['uThe Language and Technology of Online Intercultural Community Formation']	http://www.infosci.cornell.edu/about/SeminarFall04/Sept08.html
+88	0.00282509253929	['uReading and Writing in the Digital Era']	http://www.infosci.cornell.edu/about/SeminarFall04/Sept22.html
+89	0.00319906786668	['uFall 2004 Colloquium', 'u Fall 2004 Colloquium']	http://www.infosci.cornell.edu/about/SeminarSeries-fall2004.html
+90	0.00303261577676	['uFall 2007 Colloquium ']	http://www.infosci.cornell.edu/about/seminarSeries-fall2007.htm
+91	0.00296195881269	['uFall 2008 Colloquium']	http://www.infosci.cornell.edu/about/seminarSeries-fall2008.html
+92	0.00291197866915	['uFall 2009 Colloquium']	http://www.infosci.cornell.edu/about/seminarSeries-fall2009.html
+93	0.00323670395816	['u Spring 2004 Colloquium']	http://www.infosci.cornell.edu/about/SeminarSeries-spring2004.html
+94	0.00317262928782	['uSpring 2005 Colloquium']	http://www.infosci.cornell.edu/about/SeminarSeries-spring2005.html
+95	0.00303261577569	['uSpring 2007 Colloquium ']	http://www.infosci.cornell.edu/about/seminarSeries-spring2007.htm
+96	0.00298565448289	['uSpring 2008 Colloquium ']	http://www.infosci.cornell.edu/about/seminarSeries-spring2008.htm
+97	0.0029384512025	['uSpring 2009 Colloquium ']	http://www.infosci.cornell.edu/about/seminarSeries-spring2009.html
+98	0.00291197866915	['uSpring 2010 Colloquium']	http://www.infosci.cornell.edu/about/seminarSeries-spring2010.html
+99	0.0145211321772	['uIS Colloquium, <br />, u', 'uColloquium', 'uColloquium, <br />, u', 'uHome', 'uIS Colloquium', '<br />, u', 'uINFO 7090']	http://www.infosci.cornell.edu/about/seminarSeries.html
+100	0.0028372518915	['uExploring Bridges Between Open and                   Vetted Information Domains: INFOMINE, iVia and Data Fountains, <br />, u']	http://www.infosci.cornell.edu/about/SeminarSpring04/Apr1.html
+101	0.202787456446		http://www.infosci.cornell.edu/about/SeminarSpring04/Apr14.html
+102	0.0028372518915	['uEveryday Lies and Everyday Technology:                   Deception, Design,, <br />, u                  and Detection']	http://www.infosci.cornell.edu/about/SeminarSpring04/Apr7.html
+103	0.0028372518915	['uA new research platform for investigating                   hybrid networks']	http://www.infosci.cornell.edu/about/SeminarSpring04/Feb24.html
+104	0.0028372518915	['uLearning to Predict Complex Outputs                   ']	http://www.infosci.cornell.edu/about/SeminarSpring04/March10.html
+105	0.0028372518915	['uAffective Presence']	http://www.infosci.cornell.edu/about/SeminarSpring04/March31.html
+106	0.00281389502339	['u"Jofishs               talk"']	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13.html
+107	0.00281389502339	['u"Loris talk"']	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr13b.html
+108	0.00281389502339	['u"Why Youre               in the Trenches of the Copyright Wars"']	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr20b.html
+109	0.00281389502339	['uThe Web Laboratory:               A petabyte collection of data for research on the content, structure,               and evolution of the Web']	http://www.infosci.cornell.edu/about/SeminarSpring05/Apr27.html
+110	0.00281389502339	['uLegal and               Technical Standards in Digital Rights Management']	http://www.infosci.cornell.edu/about/SeminarSpring05/Feb02.html
+111	0.00281389502339	['uIs artist-friendly               graphics possible?']	http://www.infosci.cornell.edu/about/SeminarSpring05/Feb16.html
+112	0.00281389502339	['uAutomatic               Metadata Assignment for Internet Resources']	http://www.infosci.cornell.edu/about/SeminarSpring05/June13.html
+113	0.00281389502339	['uManaging               E-loyalty through Design']	http://www.infosci.cornell.edu/about/SeminarSpring05/June6.html
+114	0.00281389502339	['uThe Design               of a Japanese Law Translation System']	http://www.infosci.cornell.edu/about/SeminarSpring05/March02.html
+115	0.00281389502339	['u"Gillys               talk"']	http://www.infosci.cornell.edu/about/SeminarSpring05/March30.html
+116	0.00281389502339	['u"Sadats talk"']	http://www.infosci.cornell.edu/about/SeminarSpring05/March30b.html
+117	0.00281389502339	['u"The Emperors               New Clothes: The Challenges of Designing Implicit Interactions"']	http://www.infosci.cornell.edu/about/SeminarSpring05/may4.html
+118	0.00285857214321	['uhttp://www.infosci.cornell.edu/about/SIGCHI.html']	http://www.infosci.cornell.edu/about/SIGCHI.html
+119	0.0852871606264	['uCourse Conflict Charts, <br />']	http://www.infosci.cornell.edu/courses/courseconflictcharts.html
+120	0.0745011366896	['uINFO Courses', 'uINFO 2310', 'uINFO 3200', 'uINFO 3660', 'uINFO 4320', 'uINFO 7050', 'uBack to INFO course list']	http://www.infosci.cornell.edu/courses/courses.asp
+121	0.00400989515778	['uINFO 1300']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%201300
+122	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202040
+123	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202140
+124	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202300
+125	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202310
+126	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202450
+127	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202921
+128	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%202950
+129	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203200
+130	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203300
+131	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203450
+132	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203490
+133	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203561
+134	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203650
+135	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%203660
+136	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204144
+137	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%20415
+138	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204290
+139	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204300
+140	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204302
+141	0.00294499606211	['uINFO 4307']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204307
+142	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204320
+143	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204400
+144	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204450
+145	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204470
+146	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204500
+147	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204900
+148	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%204910
+149	0.00578824591833	['uINFO 5150']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205150
+150	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%205300
+151	0.00286174894568	['uINFO 6140/PSYCH 6140']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206140
+152	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206144
+153	0.00286174894568	['uINFO           6300']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206300
+154	0.00286174894568	['uINFO 6302:']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206302
+155	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206307
+156	0.00286174894568	['uINFO 6341/S&TS; 6341']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206341
+157	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206350
+158	0.00286174894568	['uCOMM 6400/INFO 6400']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206400
+159	0.00286174894568	['uCOMM 6450/INFO 6450']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206450
+160	0.00286174894568	['uCOMM 6500/INFO 6500']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206500
+161	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206648
+162	0.00566304524843	['uCS           6850', '<font color="#669900">INFO 6850</font>']	http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%206850
+163	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207050
+164	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207090
+165	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%207900
+166	0.202787456446		http://www.infosci.cornell.edu/courses/courses.asp?cnumber=INFO%209900
+167	0.0254128876375	['uINFO Courses', 'uINFO courses', 'uINFO 3460']	http://www.infosci.cornell.edu/courses/courses.html
+168	0.00284434331224	['uINFO         Courses']	http://www.infosci.cornell.edu/courses/coursesgrad.asp
+169	0.0852871606119	['uCourses of Interest']	http://www.infosci.cornell.edu/courses/Coursesofinterest.htm
+170	0.202787456446		http://www.infosci.cornell.edu/courses/FA09offeringnotes.html
+171	0.00391515373523	['uoffering notes']	http://www.infosci.cornell.edu/courses/FA10offeringnotes.html
+172	0.202787456446		http://www.infosci.cornell.edu/courses/info204/2007sp/index.htm
+173	0.202787456446		http://www.infosci.cornell.edu/courses/info204/2008sp/index.htm
+174	0.202787456446		http://www.infosci.cornell.edu/courses/info2040/2009sp/index.htm
+175	0.202787456446		http://www.infosci.cornell.edu/courses/info2040/2010fa/index.htm
+176	0.202787456446		http://www.infosci.cornell.edu/courses/info2040/2010sp/index.htm
+177	0.202787456446		http://www.infosci.cornell.edu/courses/info2950/2008fa/default.htm
+178	0.202787456446		http://www.infosci.cornell.edu/courses/info2950/2010sp/index.html
+179	0.0031474019802	['uHadoopHints.html', 'uHadoop hints for CS/Info 4300']	http://www.infosci.cornell.edu/courses/info4300/2008fa/HadoopHints.html
+180	0.00309822382212	['uMapReduceHints.html', 'uMapReduce hints for CS/Info 4300']	http://www.infosci.cornell.edu/courses/info4300/2008fa/MapReduceHints.html
+181	0.202787456446		http://www.infosci.cornell.edu/Courses/info4300/2009fa/about.html
+182	0.00334915725758	['uAssignments']	http://www.infosci.cornell.edu/Courses/info4300/2009fa/assignments.html
+183	0.00334915725381	['uAcademic Integrity']	http://www.infosci.cornell.edu/Courses/info4300/2009fa/code.html
+184	0.00334915725142	['uExaminations']	http://www.infosci.cornell.edu/Courses/info4300/2009fa/exams.html
+185	0.0844641398283	['uHome']	http://www.infosci.cornell.edu/Courses/info4300/2009fa/index.html
+186	0.00334915724992	['uReadings']	http://www.infosci.cornell.edu/Courses/info4300/2009fa/readings.html
+187	0.00345439505475	['uSyllabus', 'u"Fall 09"']	http://www.infosci.cornell.edu/Courses/info4300/2009fa/syllabus.html
+188	0.202787456446		http://www.infosci.cornell.edu/Courses/info4300/2009fa/test/URLhints.html
+189	0.202787456446		http://www.infosci.cornell.edu/Courses/info4300/2010fa/about.html
+190	0.00286930807408	['uassignment1.html']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment1.html
+191	0.00286930807408	['uassignment2.html']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment2.html
+192	0.00286930807408	['uassignment3.html']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignment3.html
+193	0.00368332319546	['uAssignments']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/assignments.html
+194	0.00368332319394	['uAcademic Integrity']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/code.html
+195	0.00368332319228	['uExaminations']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/exams.html
+196	0.0442408144806	['uHome']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/index.html
+197	0.00368332319144	['uReadings']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/readings.html
+198	0.00289269425149	['uHTML']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/sample-exam.html
+199	0.0036833231908	['uSyllabus']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/syllabus.html
+200	0.00295141690737	['utestData.html']	http://www.infosci.cornell.edu/Courses/info4300/2010fa/testData.html
+201	0.0865196096452	['uIndependent Research', 'uindependent research webpage', 'uINFO 4900 page']	http://www.infosci.cornell.edu/courses/INFO490.htm
+202	0.00670372975019		http://www.infosci.cornell.edu/courses/Minor_in_Infosci.html
+203	0.00831802343997	['uINFO 2921', 'uINFO 4144', 'uINFO 4900']	http://www.infosci.cornell.edu/courses/nowebsite.htm
+204	0.00353980087769	['uStudent Research Examples', 'uhere', 'u(examples)']	http://www.infosci.cornell.edu/courses/Projectlist.htm
+205	0.00594578553445	['uoffering notes']	http://www.infosci.cornell.edu/courses/SP11offeringnotes.html
+206	0.00326361600781	['uNSDL Core Integration', 'uCore         Integration', 'uCore Integration', 'uNSDL at Cornell:         Core Integration']	http://www.infosci.cornell.edu/dl/core-integration.html
+207	0.00304604160587	['uArchive of Digital Libraries Research', 'uArchive of digital library research at           Cornell ']	http://www.infosci.cornell.edu/dl/dl-archive.html
+208	0.00304604160587	['uPeople']	http://www.infosci.cornell.edu/dl/dl-people.html
+209	0.00304604160587	['uElectronic Publishing', 'uElectronic publishing']	http://www.infosci.cornell.edu/dl/epub.html
+210	0.00905047969062	['uDigital Libraries Home', 'uDigital Libraries Home', 'uDigital Libraries &amp; Web Information ']	http://www.infosci.cornell.edu/dl/index.html
+211	0.00326361598053	['uThe NSDL at Cornell', 'uThe             NSDL at Cornell', 'uNSDL at Cornell', 'uNSDL-funded         projects at Cornell']	http://www.infosci.cornell.edu/dl/nsdl-cornell.html
+212	0.0719144368426	['faculty and researchers', 'uIS Faculty and Researchers', 'uFaculty Research Interests', 'Cornell Information Science', 'uFaculty & Researchers, <br />, u', 'uFaculty &amp; Researchers']	http://www.infosci.cornell.edu/facultyAndResearch/index.html
+213	0.00668632409666	['urequired or recommended course', 'uSee list of Required &amp; Recommended           courses.']	http://www.infosci.cornell.edu/grad/classes.html
+214	0.00676061658662	['uFAQs', 'u"FAQs"']	http://www.infosci.cornell.edu/grad/FAQgrad.html
+215	0.198403236945	['grad programs', 'uPh.D. program', 'uProgram Overview', 'Cornell Information Science', 'uPh.D. degree']	http://www.infosci.cornell.edu/grad/index.html
+216	0.00606411010068	['uAlumni']	http://www.infosci.cornell.edu/graduateStudents/alumni.html
+217	0.147449412102	['graduate students', 'uPh.D Students', 'Cornell Information Science']	http://www.infosci.cornell.edu/graduateStudents/index.html
+218	0.00294085372311	['uProject forms']	http://www.infosci.cornell.edu/hadoop/cac.html
+219	0.00294085372311	['uHardware and software configuration']	http://www.infosci.cornell.edu/hadoop/config.html
+220	0.00309822382212	['uhttp://www.infosci.cornell.edu/hadoop/docs.html', 'uDocumentation on Hadoop and MapReduce']	http://www.infosci.cornell.edu/hadoop/docs.html
+221	0.00766986376661	['uHadoop      Home']	http://www.infosci.cornell.edu/hadoop/index.html
+222	0.00330477207514	['uPreparing a MapReduce job on a Macintosh computer', 'uPreparing a MapReduce job from a Macintosh computer']	http://www.infosci.cornell.edu/hadoop/mac.html
+223	0.00294085372133	['uMonitoring tools']	http://www.infosci.cornell.edu/hadoop/monitor.html
+224	0.00294085372133	['uHints and examples of MapReduce programming']	http://www.infosci.cornell.edu/hadoop/prog.html
+225	0.00294085372133	['uRunning a MapReduce job on the Hadoop cluster']	http://www.infosci.cornell.edu/hadoop/runjob.html
+226	0.00330477207514	['uPreparing a MapReduce job on a Windows computer', 'uPreparing a MapReduce job from a Windows computer']	http://www.infosci.cornell.edu/hadoop/windows.html
+227	0.00606556466625	['uJob Openings', 'Cornell Information Science']	http://www.infosci.cornell.edu/jobs/index.html
+228	0.0800362103385	['masters program', 'Cornell Information Science', 'uHome', 'uMPS degree in Information Science']	http://www.infosci.cornell.edu/masters-preliminary/index.html
+229	0.00730976625525	['uadmissions page', 'uAdmissions']	http://www.infosci.cornell.edu/masters-preliminary/mastersAdmissions.html
+230	0.00730976625515	['uCourses', 'uInformation Science courses']	http://www.infosci.cornell.edu/masters-preliminary/mastersCourses.html
+231	0.202787456446		http://www.infosci.cornell.edu/masters-preliminary/mastersGeneral.html
+232	0.00730976625509	['uDegree requirements', 'ugraduation requirements']	http://www.infosci.cornell.edu/masters-preliminary/mastersRequirements.html
+233	0.00593077433357	['uMore News']	http://www.infosci.cornell.edu/news/news.html
+234	0.202787456446		http://www.infosci.cornell.edu/pathways/index.html
+235	0.198403236806	['research', 'uresearch           groups', 'uIS Research Groups', 'Cornell Information Science']	http://www.infosci.cornell.edu/research/index.html
+236	0.0433449477352	['uNext Generation Cybertools']	http://www.infosci.cornell.edu/SIN/cybertools/index.html
+237	0.202787456446		http://www.infosci.cornell.edu/SIN/index.html
+238	0.0127008823076	['uArts & Sciences Main Menu', 'uInformation Science (Arts &amp; Sciences) ']	http://www.infosci.cornell.edu/ugrad/arts.htm
+239	0.00289329713189	['uAdmission to the major ']	http://www.infosci.cornell.edu/ugrad/ArtsAdmissions.htm
+240	0.00283567806486	['ucriteria for admission to the major', 'u\\t      criteria for admission to the major', 'ucriteria \\t       for admission to the major']	http://www.infosci.cornell.edu/ugrad/ArtsAffiliationcriteria.htm
+241	0.00283567806486	['umajor declaration forms']	http://www.infosci.cornell.edu/ugrad/ArtsAffiliationforms.htm
+242	0.202787456446		http://www.infosci.cornell.edu/ugrad/Artsgoodstanding.htm
+243	0.00289329713189	['uHonors ']	http://www.infosci.cornell.edu/ugrad/ArtsHonors.htm
+244	0.00289329713189	['uGeneral information ']	http://www.infosci.cornell.edu/ugrad/ArtsMajor.htm
+245	0.00663189957754	['uDegree requirements', 'ucore courses', 'umajor requirements']	http://www.infosci.cornell.edu/ugrad/ArtsRequirements.htm
+246	0.202787456446		http://www.infosci.cornell.edu/ugrad/CALS.htm
+247	0.00455082563248	['uAdmission to the major']	http://www.infosci.cornell.edu/ugrad/CALSAdmissions.htm
+248	0.00287019873022	['ucriteria for admission to the IS major', 'ucriteria for admission']	http://www.infosci.cornell.edu/ugrad/CALSAffiliationcriteria.htm
+249	0.00287019873022	['umajor declaration forms']	http://www.infosci.cornell.edu/ugrad/CALSAffiliationforms.htm
+250	0.202787456446		http://www.infosci.cornell.edu/ugrad/CALSgoodstanding.htm
+251	0.00455082563248	['uHonors']	http://www.infosci.cornell.edu/ugrad/CALSHonors.htm
+252	0.202787456446		http://www.infosci.cornell.edu/ugrad/CALSMajor.htm
+253	0.00945237694362	['uDegree requirements', 'ucore courses', 'u B.S. in Information Science', 'umajor requirements']	http://www.infosci.cornell.edu/ugrad/CALSRequirements.htm
+254	0.112769728672	['uConcentration/Minor']	http://www.infosci.cornell.edu/ugrad/concentrations.html
+255	0.0867238026162	['uFAQs']	http://www.infosci.cornell.edu/ugrad/FAQs.htm
+256	0.00350992020898	['uRana Glasgal']	http://www.infosci.cornell.edu/ugrad/Glasgal.htm
+257	0.198403236759	['undergrad programs', 'undergraduates', 'uMajors', 'undergraduate major', 'Cornell Information Science', 'home']	http://www.infosci.cornell.edu/ugrad/index.html
+258	0.0867238026038	['uIS Careers', 'uIS careers page']	http://www.infosci.cornell.edu/ugrad/ISCareers.htm
+259	0.0867238026029	['uPotential Employers']	http://www.infosci.cornell.edu/ugrad/ISEmployers.htm
+260	0.0867238026021	['uProfessional Associations']	http://www.infosci.cornell.edu/ugrad/ISLinks.htm
+261	0.086695651494	['uIS Professionals', 'uIS Professionals Homepage']	http://www.infosci.cornell.edu/ugrad/ISProfessionals.htm
+262	0.0867238026009	['uInformation Science, <br />, u &nbsp; &nbsp; &nbsp;Student Association ', 'uIS/ISST Student Association ']	http://www.infosci.cornell.edu/ugrad/ISSA.htm
+263	0.00871537211096	['uInformation Science, Systems, and Technology             (Engineering) ', 'uISST Main Menu']	http://www.infosci.cornell.edu/ugrad/isst.htm
+264	0.00285717942288	['uAdmission to the major']	http://www.infosci.cornell.edu/ugrad/ISSTAdmissions.htm
+265	0.00283507610304	['ucriteria for admission to the major', 'ucriteria for admission to \\t            the major']	http://www.infosci.cornell.edu/ugrad/ISSTAffiliation.htm
+266	0.00283507610304	['uaffiliation forms', 'u \\t  \\t    affiliation forms ']	http://www.infosci.cornell.edu/ugrad/ISSTAffiliationforms.htm
+267	0.00285717942288	['uCriteria for good standing']	http://www.infosci.cornell.edu/ugrad/ISSTgoodstanding.htm
+268	0.00285717942288	['uHonors ']	http://www.infosci.cornell.edu/ugrad/ISSTHonors.htm
+269	0.00285717942288	['uGeneral information ']	http://www.infosci.cornell.edu/ugrad/ISSTMajor.htm
+270	0.00733262229114	['uB.S. in Information Science, Systems and Technology,', 'uDegree requirements', 'umajor requirements']	http://www.infosci.cornell.edu/ugrad/ISSTRequirements.htm
+271	0.00350992020844	['uMarcia Davis Kerchner']	http://www.infosci.cornell.edu/ugrad/Kerchner.htm
+272	0.00350992020844	['uWill Kruse']	http://www.infosci.cornell.edu/ugrad/Kruse.htm
+273	0.0864148578761	['uIS/ISST in the News', 'uarticles']	http://www.infosci.cornell.edu/ugrad/newsarticles.htm
+274	0.023170854307	['uINFO 2450', 'uINFO 3490', 'uINFO 3561', 'uINFO 3650', 'uINFO 4290', 'uINFO 4450', 'uINFO 4500', 'uINFO 4910', 'uINFO 5150', 'uINFO 6450', 'uINFO 6500', 'uINFO 6648', 'uINFO 7900', 'uINFO 9900']	http://www.infosci.cornell.edu/ugrad/nowebsite.htm
+275	0.00350992020844	['uMimi Recker']	http://www.infosci.cornell.edu/ugrad/Recker.htm
+276	0.202787456446		http://www.infosci.cornell.edu/ugrad/sampleSched_Agg.html
+277	0.202787456446		http://www.infosci.cornell.edu/ugrad/sampleSched_Arts.html
+278	0.202787456446		http://www.infosci.cornell.edu/ugrad/sampleSched_Engin.html
+279	0.112769728653	['uContact Information']	http://www.infosci.cornell.edu/ugrad/ugradContact.html
+280	0.00348432056641	['uContact']	http://weblab.infosci.cornell.edu/contact.html
+281	0.00348432056406	['uContributors']	http://weblab.infosci.cornell.edu/contributors.html
+282	0.00348432056233	['uTools and documentation']	http://weblab.infosci.cornell.edu/documentation.html
+283	0.00348432056106	['uHome']	http://weblab.infosci.cornell.edu/index.html
+284	0.00348432056012	['uOverview']	http://weblab.infosci.cornell.edu/overview.html
+285	0.00348432055943	['uUse policy']	http://weblab.infosci.cornell.edu/policy.html
+286	0.00348432055892	['uPublications']	http://weblab.infosci.cornell.edu/publications.html
+287	0.00348432055854	['uStatus', 'ustatus']	http://weblab.infosci.cornell.edu/status.html
