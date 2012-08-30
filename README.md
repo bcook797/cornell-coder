@@ -14,3 +14,5 @@ PageRank: A page ranking program written for INFO 4300-Information Retrieval cou
 Solar System: Creates a solar system using a procedural algorithm using OpenGL for graphics
 
 Movie Rater: Web Application that allows to add and rate movies developed Java and GWT
+
+LSI: A Latent-Semantic Indexing program written for INFO 4300-Information Retrieval course at Cornell University
