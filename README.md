@@ -30,3 +30,7 @@ Web Application that allows to add and rate movies developed Java and GWT
 ## LSI
 
 A Latent-Semantic Indexing program written for INFO 4300-Information Retrieval course at Cornell University
+
+## Mars Rover
+
+A code project done for the ThoughtWorks recruiting process. Take a look at the readme and the problem.txt files for more info
